@@ -1,0 +1,22 @@
+PHISHING AWARENESS TRAINING REPORT
+
+Objective:
+To educate users about phishing attacks and improve cybersecurity awareness.
+
+Tools Used:
+- Python 3
+
+Features:
+- Interactive phishing awareness quiz
+- Detection of suspicious emails
+- Awareness about fake websites
+- Training on social engineering attacks
+
+Learning Outcomes:
+- Understanding phishing attacks
+- Recognizing fraudulent emails
+- Identifying fake websites
+- Following cybersecurity best practices
+
+Conclusion:
+The project successfully provides phishing awareness training through an interactive quiz and helps users learn how to avoid phishing attacks.
